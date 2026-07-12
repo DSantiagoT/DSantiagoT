@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:042f2e,50:0f766e,100:14b8a6&height=200&section=header&text=David%20Santiago%20Tellez&fontSize=42&fontColor=e0fdfa&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20AI%20%26%20Systems%20Enthusiast&descAlignY=58&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:042f2e,50:0f766e,100:14b8a6&height=200&section=header&text=David%20Santiago%20Tellez&fontSize=42&fontColor=e0fdfa&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20AI%20and%20Systems%20Enthusiast&descAlignY=58&descSize=16" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=600&lines=Systems+Engineering+Student%3BLearning+Java%2C+C%2FC%2B%2B+%26+JavaScript%3BExploring+Artificial+Intelligence%3BBuilding+solid+software+foundations" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=750&lines=Systems+Engineering+Student%3BLearning+Java%2C+C%2FC%2B%2B+and+JavaScript%3BExploring+Artificial+Intelligence%3BBuilding+solid+software+foundations" alt="Typing SVG" />
 
 <br/>
 
@@ -57,10 +57,7 @@ Currently building my path in:
 
 **Databases & Tools**
 
-![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-115e59?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-042f2e?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d9488?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 
 </div>
 
@@ -171,4 +168,3 @@ Actively building skills in structured programming, OOP, databases, and AI funda
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,50:0f766e,100:042f2e&height=120&section=footer" />
 
 </div>
-
