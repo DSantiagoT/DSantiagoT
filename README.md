@@ -163,7 +163,7 @@ Actively building skills in structured programming, OOP, databases, and AI funda
 
 <div align="center">
 
-*"Well-written code today is the problem you won't have tomorrow."*
+*"Hottest Man Alive"*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,50:0f766e,100:042f2e&height=120&section=footer" />
 
