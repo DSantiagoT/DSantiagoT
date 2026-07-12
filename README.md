@@ -131,7 +131,6 @@ Actively building skills in structured programming, OOP, databases, and AI funda
 
 </div>
 
-> Note: the snake animation requires a GitHub Action set up in the `DSantiagoT/DSantiagoT` repo. Let me know when you want the workflow file to activate it.
 
 ---
 
