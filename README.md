@@ -53,11 +53,11 @@ Currently building my path in:
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,js,c,cpp,html,css" />
+<img src="https://skillicons.dev/icons?i=java,js,c,cpp,html,css,python" />
 
 **Databases & Tools**
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,python" />
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 
 </div>
 
