@@ -57,7 +57,7 @@ Currently building my path in:
 
 **Databases & Tools**
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,python" />
 
 </div>
 
